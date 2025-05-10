@@ -1,4 +1,4 @@
-import subprocess
+
 
 subprocess.call(['python', 'handlers/hooks.py'])
 
